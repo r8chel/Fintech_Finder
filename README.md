@@ -1,2 +1,2 @@
-# Fintech_Finder
+# Fintech Finder
 An application to find fintech providers
